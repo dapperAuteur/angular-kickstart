@@ -1,4 +1,4 @@
-# [backand-angular-kickstart](https://github.com/backand/angular-kickstart/)
+# [dapperauteur-angular-kickstart](https://github.com/dapperauteur/angular-kickstart/)
 
 **Speed up your [AngularJS](http://angularjs.org) development with a complete and scalable gulpjs based build system that scaffolds the project for you. Just focus on your app, angular-kickstart will take care of the rest.**
 ***
@@ -13,9 +13,9 @@ Install **node.js**. Then **gulp** and **bower** if you haven't yet.
 
     $ npm -g install gulp bower
 
-After that, install angular-kickstart downloading the [master release](https://github.com/backand/angular-kickstart/archive/master.zip) (or clone the master branch if you want to run the development version). 
+After that, install angular-kickstart downloading the [master release](https://github.com/dapperauteur/angular-kickstart/archive/master.zip) (or clone the master branch if you want to run the development version). 
 
-    $ git clone https://github.com/backand/angular-kickstart.git
+    $ git clone https://github.com/dapperauteur/angular-kickstart.git
     $ cd angular-kickstart
     
 Install bower and npm dependencies, and run the application in development mode.
